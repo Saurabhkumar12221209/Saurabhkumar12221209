@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=solankiboy939" alt="Saurabhkumar12221209" /></a> </p>
 
-- 🧾 My Resume Profile https://saurabhkumar07.netlify.app/
+- 🧾 My Resume Profile [profile-https://saurabhkumar07.netlify.app/]
 - 📫 How to reach me **saurabhkumarp534@gmail.com**
 - ⚡ Fun fact: **I prefer dark mode Because light attracts bugs!**
 - 🎶 Favorite Beat: **Algo-rhythm**
