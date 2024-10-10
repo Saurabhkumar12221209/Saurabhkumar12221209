@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=solankiboy939" alt="Saurabhkumar12221209" /></a> </p>
 
-<p align="left"> <a href="https://x.com/" target="blank"><img src="https://img.freepik.com/free-vector/new-2023-twitter-logo-x-icon-design_1017-45418.jpg?size=338&ext=jpg&ga=GA1.1.1819120589.1728518400&semt=ais_hybrid-rr-similar" alt="https://x.com/Saurabh09734552" /></a> </p>
+<p align="left"> <a href="https://x.com/" target="blank"><img src="" alt="https://x.com/Saurabh09734552" /></a> </p>
 
 - 🧾 My Resume Profile [Profile]()
 - 📫 How to reach me **saurabhkumarp534@gmail.com**
