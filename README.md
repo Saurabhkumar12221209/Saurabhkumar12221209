@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzLzj8hPBpm3o1QpAmRQWK82kA4aWEi42fYA&s"width="25" height="28">, I'm SAURABH KUMAR</h1>
 <h3 align="center">A passionate Cyber Security Engineer</h3>
 
-![](https://adcy.io/wp-content/uploads/2020/04/anti-hacking.gif)
+![](https://miro.medium.com/v2/resize:fit:1400/1*RCHvLC5T-CNGbc5GWzSvoA.gif)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Saurabhkumar12221209&label=Profile%20views&color=0e75b6&style=flat" alt="Saurabhkumar12221209" /> </p>
