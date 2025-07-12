@@ -24,6 +24,7 @@
 <a href="https://www.hackerrank.com/profile/saurabhkumarp534" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="saurabhkumarp534" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/tower_aura_62" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Codechef%28new%29_logo.svg/1200px-Codechef%28new%29_logo.svg.png" alt="tower_aura62" height="30" width="40" /></a>
 <a href=" https://x.com/Saurabh09734552"><img align="center" src="https://img.freepik.com/free-vector/new-2023-twitter-logo-x-icon-design_1017-45418.jpg?size=338&ext=jpg&ga=GA1.1.1819120589.1728518400&semt=ais_hybrid-rr-similar"alt="Saurabh09734552" height="30" width="40" /></a>
+<a href=" https://leetcode.com/u/saurabh_kumar07/"><img align="center" src="https://leetcode.com/static/images/LeetCode_Sharing.png"alt="saurabh_kumar07" height="30" width="40" /></a>
 </p>
 
 
