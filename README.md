@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzLzj8hPBpm3o1QpAmRQWK82kA4aWEi42fYA&s"width="25" height="28">, I'm SAURABH KUMAR</h1>
 <h3 align="center">Software Engineer | ASP.NET Developer | Microsoft Azure Enthusiast</h3>
 
-![](https://www.hurix.com/who-we-serve/role/cio-cto/)
+![](https://www.hurix.com/wp-content/uploads/2024/11/Cloud-1.gif)
                   ![](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGY4bDJkcHV1ZTY2N3lweW44MWlkMzBjZmFhZnJpczZsdmQ3bHM2NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif)
 
 
