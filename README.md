@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzLzj8hPBpm3o1QpAmRQWK82kA4aWEi42fYA&s"width="25" height="28">, I'm SAURABH KUMAR</h1>
 <h3 align="center">Software Engineer | ASP.NET Developer | Microsoft Azure Enthusiast</h3>
 
-![](https://miro.medium.com/v2/resize:fit:1400/1*RCHvLC5T-CNGbc5GWzSvoA.gif)
+![](https://www.magnific.com/premium-ai-image/big-data-cloud-computing-set_318410438.htm#fromView=search&page=1&position=23&uuid=27078690-b9df-452e-a1ea-0fca68ce0cfa&query=Azure+Cloud+engineer)
                   ![](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGY4bDJkcHV1ZTY2N3lweW44MWlkMzBjZmFhZnJpczZsdmQ3bHM2NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif)
 
 
