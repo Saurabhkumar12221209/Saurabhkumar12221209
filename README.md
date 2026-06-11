@@ -2,8 +2,8 @@
 <h3 align="center">Software Engineer | ASP.NET Developer | Microsoft Azure Enthusiast</h3>
 
 <p align="center">
-  <img src="https://www.hurix.com/wp-content/uploads/2024/11/Cloud-1.gif" width="900">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGY4bDJkcHV1ZTY2N3lweW44MWlkMzBjZmFhZnJpczZsdmQ3bHM2NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="600">
+  <img src="https://www.hurix.com/wp-content/uploads/2024/11/Cloud-1.gif" width="700">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGY4bDJkcHV1ZTY2N3lweW44MWlkMzBjZmFhZnJpczZsdmQ3bHM2NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="900">
 </p>
 
 
